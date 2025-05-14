@@ -19,9 +19,9 @@ Our platform offers:
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: REACTJS 
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MYSQL
 - **Authentication**: JSON Web Tokens (JWT)
 
 ## 📸 Screenshots
